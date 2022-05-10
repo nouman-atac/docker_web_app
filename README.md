@@ -7,7 +7,7 @@
            $cd docker_web_app
 
 ## Step 3: Edit file so the output looks different.
-           Edit the file app.js  --> change "Hello World to something else"
+           Edit the file app.js  --> change "Hello World" to something else.
            
 ## Step 4: Build docker image
            $ docker build . -t <yourname>/web-app:latest
