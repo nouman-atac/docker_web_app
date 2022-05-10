@@ -20,3 +20,4 @@
            
           b)Works for linux only
            $ docker run -it -p 3000:3000 -v "$(pwd)":/app <yourname>/web-app:latest
+## Step 6: Open http://localhost:3000/ in browser.
