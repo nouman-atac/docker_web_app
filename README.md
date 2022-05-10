@@ -2,6 +2,7 @@
 
 
 ## Step 1: Edit File so that the output looks different
+           Edit app.js file --> Change "Hello world" to any thing
 
 ## Step 2: Build docker image
            $ docker build . -t <yourname>/web-app:latest
